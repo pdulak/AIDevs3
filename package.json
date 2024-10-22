@@ -5,7 +5,8 @@
   "scripts": {
     "00": "bun 00_test/00.ts",
     "01": "bun 01_poligon/01.ts",
-    "02": "bun 02_S01E01/login.ts"
+    "02": "bun 02_S01E01/login.ts",
+    "03": "bun 03_S01E02/validate.ts"
   },
   "devDependencies": {
     "@types/bun": "latest"
