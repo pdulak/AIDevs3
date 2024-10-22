@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "00": "bun 00_test/00.ts",
-    "01": "bun 01_poligon/01.ts"
+    "01": "bun 01_poligon/01.ts",
+    "02": "bun 02_S01E01/login.ts"
   },
   "devDependencies": {
     "@types/bun": "latest"
